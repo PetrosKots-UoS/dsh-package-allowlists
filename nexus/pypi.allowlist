@@ -59,6 +59,7 @@ referencing
 requests
 reretry
 rpds-py
+setuptools
 shapely
 six
 smart-open
